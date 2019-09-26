@@ -1870,13 +1870,33 @@ body {
 .cid-rD7CPgzFGn {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #073b4c;
+  background-color: #07304c;
 }
 .cid-rD7CPgzFGn .mbr-text {
   color: #efefef;
 }
 .cid-rD7CPgzFGn .mbr-text P {
   text-align: left;
+}
+.cid-rDbJ3j5r0d {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/gaming-1-1200x900.jpeg");
+}
+@media (min-width: 992px) {
+  .cid-rDbJ3j5r0d .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rDbJ3j5r0d .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rDbJ3j5r0d .mbr-text {
+    text-align: center;
+  }
 }
 .cid-rD7yfs7lu6 {
   padding-top: 30px;
@@ -1902,14 +1922,19 @@ body {
     width: 100% !important;
   }
 }
+.cid-rDbM1BHrDI {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #07304c;
+}
 .cid-rD7rwLr5xg .navbar {
-  background: #07304c;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rD7rwLr5xg .navbar-dropdown.bg-color.transparent.opened {
-  background: #07304c;
+  background: #ffffff;
 }
 .cid-rD7rwLr5xg a {
   font-style: normal;
@@ -2000,7 +2025,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rD7rwLr5xg .dropdown .dropdown-menu {
-  background: #07304c;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2309,14 +2334,19 @@ body {
 .cid-rD7rwLr5xg .dropdown-item:hover {
   color: #ffffff !important;
 }
+.cid-rDbM1BHrDI {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #07304c;
+}
 .cid-rD7rwLr5xg .navbar {
-  background: #07304c;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rD7rwLr5xg .navbar-dropdown.bg-color.transparent.opened {
-  background: #07304c;
+  background: #ffffff;
 }
 .cid-rD7rwLr5xg a {
   font-style: normal;
@@ -2407,7 +2437,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rD7rwLr5xg .dropdown .dropdown-menu {
-  background: #07304c;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2715,4 +2745,9 @@ body {
 .cid-rD7rwLr5xg .nav-link:hover,
 .cid-rD7rwLr5xg .dropdown-item:hover {
   color: #ffffff !important;
+}
+.cid-rDbM1BHrDI {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #07304c;
 }
