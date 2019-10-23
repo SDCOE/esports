@@ -1848,6 +1848,18 @@ body {
   font-size: 96px;
   color: #149dcc;
 }
+.cid-rFJJHPw3VL {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #07304c;
+}
+.cid-rFJJHPw3VL .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-rFJJHPw3VL H2 {
+  color: #cccccc;
+}
 .cid-rD7Uza8Azc {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1881,7 +1893,7 @@ body {
 .cid-rDc0FtDS0E {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #0f7699;
+  background-color: #07304c;
 }
 .cid-rDc0FtDS0E .mbr-section-subtitle {
   color: #767676;
@@ -1902,8 +1914,8 @@ body {
   text-align: left;
 }
 .cid-rDbJ3j5r0d {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/gaming-1-1200x900.jpeg");
 }
 @media (min-width: 992px) {
