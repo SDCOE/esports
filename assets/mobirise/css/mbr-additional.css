@@ -2610,57 +2610,9 @@ body {
     width: 100% !important;
   }
 }
-.cid-rF6tcpjuLq {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #0f7699;
-}
-.cid-rF6tcpjuLq .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rF6tcpjuLq H2 {
-  color: #cccccc;
-  text-align: center;
-}
-.cid-rF0OSWFL2r {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rF0OSWFL2r .card-box {
-  padding: 0 2rem;
-}
-.cid-rF0OSWFL2r .mbr-section-btn {
-  padding-top: 1rem;
-}
-.cid-rF0OSWFL2r .mbr-section-btn a {
-  margin-top: 1rem;
-  margin-bottom: 0;
-}
-.cid-rF0OSWFL2r h4 {
-  font-weight: 500;
-  margin-bottom: 0;
+.cid-rDdIwtpRKE .mbr-text,
+.cid-rDdIwtpRKE .mbr-section-btn {
   text-align: left;
-  padding-top: 2rem;
-}
-.cid-rF0OSWFL2r p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-}
-.cid-rF0OSWFL2r .mbr-text {
-  color: #767676;
-}
-.cid-rF0OSWFL2r .card-wrapper {
-  height: 100%;
-  padding-bottom: 2rem;
-  background: #ffffff;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-rF0OSWFL2r .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
 }
 .cid-rDdLYnjRtp {
   padding-top: 15px;
@@ -3080,6 +3032,46 @@ body {
 .cid-rD7rwLr5xg .nav-link:hover,
 .cid-rD7rwLr5xg .dropdown-item:hover {
   color: #ffffff !important;
+}
+.cid-rKbqLqwVET {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rKbqLqwVET .card-box {
+  padding: 0 2rem;
+}
+.cid-rKbqLqwVET .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rKbqLqwVET .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rKbqLqwVET h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rKbqLqwVET p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rKbqLqwVET .mbr-text {
+  color: #767676;
+}
+.cid-rKbqLqwVET .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rKbqLqwVET .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
 }
 .cid-rDdLo9JbFZ {
   padding-top: 90px;
