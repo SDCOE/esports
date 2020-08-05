@@ -3174,6 +3174,43 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/img-3592-2000x608.jpeg");
 }
+.cid-s6Or4YdrbO {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-s6Or4YdrbO .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-s6Or4YdrbO h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-s6Or4YdrbO p {
+  color: #767676;
+  text-align: left;
+}
+.cid-s6Or4YdrbO .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-s6Or4YdrbO .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-s6Or4YdrbO .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-s6Or4YdrbO P {
+  text-align: left;
+}
 .cid-rN25hnJaNV {
   padding-top: 0px;
   padding-bottom: 30px;
